@@ -1,0 +1,52 @@
+body {
+	background: linear-gradient(to bottom right, lemonchiffon, white);
+	padding: 15px;
+	font-family: Verdana;
+}
+
+
+h1 {
+	text-align: center;
+	color: white;
+	background: teal;
+	padding: 5px;
+}
+
+h2 {
+	color: white;
+	background: teal;
+	padding: 5px;
+	margin: 2px 2px 2px gray;
+	text-align: center;
+}
+
+.item {
+	padding: 10px;
+	margin-bottom: 10px;
+	border: 3px dashed teal;
+}
+
+.column1 {
+	float: left;
+	width: 48%;
+}
+
+.column2 {
+	float: right;
+	width: 48%;
+}
+
+.photo {
+	box-shadow: 4px 4px 4px gray;
+	transform: rotate(10deg);
+}
+
+#robots {
+	font-size: 30px;
+	color: white;
+	background: linear-gradient(green, yellow, orange, red, purple, blue);
+	padding: 30px;
+	border-radius: 5px;
+	text-align: center;
+
+}
